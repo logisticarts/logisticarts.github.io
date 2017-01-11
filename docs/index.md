@@ -1,3 +1,3 @@
-# Welcome to Logistic Arts
+# ようこそ Logistic Arts へ
 
 Arts in logistics.

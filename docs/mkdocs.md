@@ -15,3 +15,10 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## テーマ
+
+- http://www.mkdocs.org/user-guide/styling-your-docs/
+- https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+
+
