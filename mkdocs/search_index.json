@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "\u3088\u3046\u3053\u305d Logistic Arts \u3078\n\n\nArts in logistics.", 
+            "text": "Arts in logistics.\n\n\nFacebook", 
             "title": "Home"
         }, 
         {
-            "location": "/#logistic-arts", 
-            "text": "Arts in logistics.", 
-            "title": "\u3088\u3046\u3053\u305d Logistic Arts \u3078"
+            "location": "/#arts-in-logistics", 
+            "text": "Facebook", 
+            "title": "Arts in logistics."
         }, 
         {
             "location": "/about/", 
