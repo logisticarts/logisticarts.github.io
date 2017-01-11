@@ -11,24 +11,29 @@
             "title": "\u3088\u3046\u3053\u305d Logistic Arts \u3078"
         }, 
         {
-            "location": "/mkdocs/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Mkdocs"
+            "location": "/about/", 
+            "text": "About\n\n\n\u5546\u53f7\n\n\n\n\n\u4f1a\u793e\u540d: \u682a\u5f0f\u4f1a\u793e Logistic Arts\n\n\n\u8a2d\u7acb: 2016\u5e744\u670827\u65e5\n\n\n\n\n\u5f79\u54e1\n\n\n\n\n\u4ee3\u8868\u53d6\u7de0\u5f79: \u5948\u826f\u82f1\u6a39\n\n\nLinked In\n\n\n\n\n\u30a2\u30af\u30bb\u30b9\n\n\n\n\n\u3012 151-0051 \u6771\u4eac\u90fd \u6e0b\u8c37\u533a \u5343\u99c4\u30f6\u8c37 3-52-1 \u30af\u30ed\u30b9\u30b5\u30a4\u30c9\u30d3\u30eb 7F\n\n\nGoogle Map", 
+            "title": "About"
         }, 
         {
-            "location": "/mkdocs/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/about/#about", 
+            "text": "", 
+            "title": "About"
         }, 
         {
-            "location": "/mkdocs/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/about/#_1", 
+            "text": "\u4f1a\u793e\u540d: \u682a\u5f0f\u4f1a\u793e Logistic Arts  \u8a2d\u7acb: 2016\u5e744\u670827\u65e5", 
+            "title": "\u5546\u53f7"
         }, 
         {
-            "location": "/mkdocs/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/about/#_2", 
+            "text": "\u4ee3\u8868\u53d6\u7de0\u5f79: \u5948\u826f\u82f1\u6a39  Linked In", 
+            "title": "\u5f79\u54e1"
+        }, 
+        {
+            "location": "/about/#_3", 
+            "text": "\u3012 151-0051 \u6771\u4eac\u90fd \u6e0b\u8c37\u533a \u5343\u99c4\u30f6\u8c37 3-52-1 \u30af\u30ed\u30b9\u30b5\u30a4\u30c9\u30d3\u30eb 7F  Google Map", 
+            "title": "\u30a2\u30af\u30bb\u30b9"
         }
     ]
 }
