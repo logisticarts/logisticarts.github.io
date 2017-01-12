@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Arts in logistics.\n\n\nFacebook", 
+            "text": "Arts in logistics.\n\n\nFacebook\n\n\n\u30df\u30c3\u30b7\u30e7\u30f3\n\n\n\n\n\u6301\u7d9a\u53ef\u80fd\u306a\u98df\u54c1\u7269\u6d41\u3092\u652f\u3048\u3066\u3044\u304d\u307e\u3059\n\n\n\u7269\u6d41\u306b\u304a\u3051\u308b\u52b4\u50cd\u751f\u7523\u6027\u3092\u98db\u8e8d\u7684\u306b\u9ad8\u3081\u307e\u3059\n\n\n\u305d\u306e\u305f\u3081\u306e\u60c5\u5831\u30b7\u30b9\u30c6\u30e0\u3068\u7269\u6d41\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092\u5b9f\u73fe\u3057\u307e\u3059", 
             "title": "Home"
         }, 
         {
             "location": "/#arts-in-logistics", 
             "text": "Facebook", 
             "title": "Arts in logistics."
+        }, 
+        {
+            "location": "/#_1", 
+            "text": "\u6301\u7d9a\u53ef\u80fd\u306a\u98df\u54c1\u7269\u6d41\u3092\u652f\u3048\u3066\u3044\u304d\u307e\u3059  \u7269\u6d41\u306b\u304a\u3051\u308b\u52b4\u50cd\u751f\u7523\u6027\u3092\u98db\u8e8d\u7684\u306b\u9ad8\u3081\u307e\u3059  \u305d\u306e\u305f\u3081\u306e\u60c5\u5831\u30b7\u30b9\u30c6\u30e0\u3068\u7269\u6d41\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092\u5b9f\u73fe\u3057\u307e\u3059", 
+            "title": "\u30df\u30c3\u30b7\u30e7\u30f3"
         }, 
         {
             "location": "/about/", 
